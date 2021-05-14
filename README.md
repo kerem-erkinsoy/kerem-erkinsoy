@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Kerem Erkinsoy
-- 👀 I am interested in game development with Unity and mobile-web programming.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I am interested in game development with Unity and Android programming.
+- 🌱 I’m currently learning web programming 
+- 📫 How to reach me: k.erkinsoy@hotmail.com
 
 <!---
 kerem-erkinsoy/kerem-erkinsoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
