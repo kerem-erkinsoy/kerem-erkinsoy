@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kerem Erkinsoy
-- 👀 I am interested in game development with Unity and Android programming.
-- 🌱 I’m currently learning web programming 
+- 👀 I am interested in game development with Unity and web back-end programming.
+- 🌱 I’m currently learning Spring Framework. 
 - 📫 How to reach me: k.erkinsoy@hotmail.com
 
 <!---
