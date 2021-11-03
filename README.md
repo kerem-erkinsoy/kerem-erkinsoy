@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kerem Erkinsoy
 - 👀 I'm interested in game development with Unity and back-end programming with Spring.
 - 👀 I solve Math and Algorithm problems in my spare time and share the Algorithms I solve here.
-- 👯 Borderdice, the top down 2D action game we developed with a friend, will be released for PC soon on Steam and other platforms. You can add wishlist on Steam now:
+- 👯 Borderdice, the top down 2D action game We developed with a friend, will be released for PC soon on Steam and other platforms. You can add wishlist on Steam now:
 https://store.steampowered.com/app/1415150/BORDERCIDE/
 - 📫 How to reach me: k.erkinsoy@hotmail.com
 
